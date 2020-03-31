@@ -1,2 +1,2 @@
-# Term-Structure-of-Interest-Rates
-Analysis of interest rates' time series using Eviews
+# Term Structure of Interest Rates
+This project is aimed to analyse a dataset containing US dollar LIBOR interbank interest rates' time series, available in short and long term over the period 1961-2008, quarterly. The study is focused on searching for relationships between the long-term and short-term maturity interest rates, checking for the cointegration, the dependence and the response between these two kind of variables.
